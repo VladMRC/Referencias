@@ -1,5 +1,9 @@
 Nolose
+<<<<<<< Updated upstream
 Nolose
 Oye
 Adios
 Oye
+=======
+Cambios de la rama verparacreer
+>>>>>>> Stashed changes
